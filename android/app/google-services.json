@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "328851146116",
+    "project_id": "kokomber-game",
+    "storage_bucket": "kokomber-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328851146116:android:cc965629c932d8b0edc9d1",
+        "android_client_info": {
+          "package_name": "com.flutterflow.fftrivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328851146116-v3u906j2rbr5rh3fi5josf8kpivfca9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH_Pri0OW6ktjEP4-nBukvN1Y-Phn416U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328851146116-v3u906j2rbr5rh3fi5josf8kpivfca9v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328851146116-4b3toajgrjhijs8fb7q0feoel9mllspl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.fftrivia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
